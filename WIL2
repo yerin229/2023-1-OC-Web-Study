@@ -1,12 +1,1 @@
-<GIT이란?>
-: 한 코드를 여러 사람이 같이 보고 수정 가능
-    + branch(분기): 하나의 코드가 나뭇가지가 갈라지둣 나누어짐
-                   분기 나누기, 분기 합치기, 변화 추적 가능, 특정 시점으로 되돌아가기 가능
 
-<파일의 4가지 상태>
- : Untracked       Unmodified        MOdified           Staged
-       --------------------Add the file-------------------->
-                      --Edit the file--> --Stage the file-->
-     <--Remove the file-- <-------------Commit--------------
-
-  +) Working Directory --add--> Staging Area --commit--> local repository
