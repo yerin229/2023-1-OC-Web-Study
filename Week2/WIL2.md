@@ -69,6 +69,7 @@ ex) 교촌치킨
        
 
 ![Untitled 1](https://user-images.githubusercontent.com/127593340/227828594-0fb8b56f-a13e-4034-8333-a418e1f788d2.png)
+
            Working Directory — add —> Staging Area — commit —> local repository
 
 1. Working Directory (작업공간)
