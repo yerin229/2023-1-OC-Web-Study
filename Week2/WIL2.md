@@ -6,23 +6,23 @@
 
 ### www.hongik.ac.kr을 입력하면 어떤 일이 일어날까?
 
-Resource =  내가 얻고자 하는 대상
+Resource =  내가 얻고자 하는 대상 ex) 허니콤보
 
-주소 = Resource가 저장된 주소
+주소 = Resource가 저장된 주소 ex) 교촌치킨 신촌점
 
-- URI (Uniform Resource Identifier)
+- URI (Uniform Resource Identifier) ex) 허니콤보를 얻을 수 있는 위치를 알아내기 위한 방식
     
     :Resource를 식별하는 통일된 방식
     
     ex) http://thinkzarahatke.com/author/amty.html#posts
     
-- URL (Uniform Resource Location)
+- URL (Uniform Resource Location) ex) 교촌치킨 신촌점
     
     : Resource를 얻을 수 있는 위치 (프로토콜+DNS주소)
     
     ex) [http://thinkzarahatke.com/author/amty.html](http://thinkzarahatke.com/author/amty.html-)
     
-- URN (Uniform Resource Name)
+- URN (Uniform Resource Name) ex) 교촌치킨
     
     : Resource를 찾기 위한 이름
     
@@ -33,20 +33,7 @@ Resource =  내가 얻고자 하는 대상
         - IP주소는 사정에 따라 바뀔 수도 있음
     
     → DNS(Domain Name Server) 등장
-    
-
-허니콤보
-
-ex) 교촌치킨 신촌점
-
-ex) 허니콤보를 얻을 수 있는 위치를
-
-알아내기 위한 방식
-
-ex) 교촌치킨 신촌점
-
-ex) 교촌치킨
-
+  
 ### 웹페이지 구성
 
 - HTML: 자료(뼈대) → 글만 있음
@@ -62,13 +49,13 @@ ex) 교촌치킨
 
 ### 파일의 4가지 상태
 
-![ Untracked (추적X)    Unmodified (변경X)        Modified(변경)                  Staged](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ead4e9f4441840368066c7caa0dd9151/Untitled.png)
 
+![Untitled](https://user-images.githubusercontent.com/127593340/227828606-3a3b5911-e9a0-409c-9f8b-8e136827e63c.png)
  Untracked (추적X)    Unmodified (변경X)        Modified(변경)                  Staged
 
        
 
-![           Working Directory — add —> Staging Area — commit —> local repository](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ead4e9f4441840368066c7caa0dd9151/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/127593340/227828594-0fb8b56f-a13e-4034-8333-a418e1f788d2.png)
 
            Working Directory — add —> Staging Area — commit —> local repository
 
@@ -95,30 +82,23 @@ ex) 교촌치킨
 
 ex) 사장님이 교촌 허니콤보 기능 구현해오라고 함
 
-      치킨 만들기
-
-              →
-
-      소스 개발하기
-
 1. 닭 손질
 2. 염지
 3. 튀김옷 입히기
-4. 맛있게 튀기기
+4. 맛있게 튀기기 (1~4: 치킨 만들기)
 5. 소스 연구
 6. 소스 테스트 해보기
 7. 소스 선정
-8. 소스 바르기
+8. 소스 바르기 (5~8: 소스 개발하기)
 
-→ 사장님은 완성본(오른쪽) 보고 내가 뭘 했고 뭘 의도했는지 알 수 없음
+→ 사장님은 완성본(괄호 안 제외) 보고 내가 뭘 했고 뭘 의도했는지 알 수 없음
 
-**∴ staging area, local area** 구분
+**∴** staging area, local area 구분
 
 - 닭 손질, 염지, 튀김까지 Staging Area에 add → “치킨 만들기”라는 이름으로 Local Repository에 commit
 - 소스 연구&테스트, 선정, 바르기까지 Staging Area에 add → “소스 개발하기”라는 이름으로 Local Repository에 commit
 
-![위의 과정은 모두 내 컴퓨터 안에서 일어난 일 **∴Remote Repository(외부 저장소)로 이동**](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ead4e9f4441840368066c7caa0dd9151/Untitled%202.png)
-
+![Untitled 2](https://user-images.githubusercontent.com/127593340/227828602-3f59cd9e-b0c2-43c0-95ee-670eb27f6aae.png)
 위의 과정은 모두 내 컴퓨터 안에서 일어난 일 **∴Remote Repository(외부 저장소)로 이동**
 
 - Remote Repository
@@ -126,7 +106,7 @@ ex) 사장님이 교촌 허니콤보 기능 구현해오라고 함
     : 내 컴퓨터 안에서 일어난 일을 저장하는 서버 → 여러 사람이 공유 가능
     
 
-![Untitled](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ead4e9f4441840368066c7caa0dd9151/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/127593340/227828604-82fc9ecc-bb39-46a9-a41a-dcab24d49220.png)
 
 1. push 명령어
     
