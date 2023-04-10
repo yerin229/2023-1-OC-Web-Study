@@ -10,7 +10,7 @@
 - 하이퍼 텍스트: 클릭하면 그 싸이트로 이동 (예전에는 주소 복붙해서 이동)
 - 새로운 문서 양식 = HTML (Hyper Text Markup Language)
 - World Wide Web Project (WWW): 최초의 웹싸이트 페이지
-    - 'http://'는 의미 없어서 괜히 붙였다,,
+    - "\http://"는 의미 없어서 괜히 붙였다,,
 
 ### HTML의 기본 골격
 
