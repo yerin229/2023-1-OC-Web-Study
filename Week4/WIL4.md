@@ -15,7 +15,7 @@
 ### HTML의 기본 골격
 
 - <html>, <head>, <title>, <body>, <h1>로 시작
-  <\/html>, <\/head>, <\/title>, <\/body>, <\/h1>으로 닫음
+  </html>, </head>, </title>, </body>, </h1>으로 닫음
     
     - 가끔 닫을 필요 없는 것들도 있음
 1. Documemt Type: HTML 알려줌
