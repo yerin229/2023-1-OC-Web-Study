@@ -17,11 +17,11 @@
 - \<html>, \<head>, \<title>, \<body>, \<h1>로 시작하고 \</html>, \</head>, \</title>, \</body>, \</h1>으로 닫음
     - 가끔 닫을 필요 없는 것들도 있음
 1. Documemt Type: HTML 알려줌
-    - <!DOCTYPE html>
+    - \<!DOCTYPE html>
 2. Head: 컴퓨터에게 주는 정보(우리 눈에는 안 보임)
-    - <head> 정보 </head>
+    - \<head> 정보 \</head>
     - 보이지 않지만 중요함
 3. Body: 우리가 실제로 보는 화면에 나오는 정보
-    - <body> 정보 </body>
+    - \<body> 정보 \</body>
 4. html 처음과 끝 알려줌
-    - <html>head, body 정보 </html>
+    - \<html> head, body 정보 \</html>
