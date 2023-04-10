@@ -10,12 +10,12 @@
 - 하이퍼 텍스트: 클릭하면 그 싸이트로 이동 (예전에는 주소 복붙해서 이동)
 - 새로운 문서 양식 = HTML (Hyper Text Markup Language)
 - World Wide Web Project (WWW): 최초의 웹싸이트 페이지
-    - [http://는](http://는) 의미 없어서 괜히 붙였다,,
+    - 'http://'는 의미 없어서 괜히 붙였다,,
 
 ### HTML의 기본 골격
 
-- '<html>, <head>, <title>, <body>, <h1>'로 시작
-  '</html>, </head>, </title>, </body>, </h1>'으로 닫음
+- '<html>, <head>, <title>, <body>, <h1>로 시작
+  '</html>, </head>, </title>, </body>, </h1>으로 닫음
     
     - 가끔 닫을 필요 없는 것들도 있음
 1. Documemt Type: HTML 알려줌
