@@ -118,9 +118,10 @@ ex) 사장님이 교촌 허니콤보 기능 구현해오라고 함
     
     기본 작동 - 현재 checkout 되어있는 branch의 내용 병합
     
-3. fetch 명령어
+3. fetch 명령어  
     
     : Remote Repository의 변경사항을 가져오기만 하고, 현재 branch에 병합하지 않을 때 사용
     
 
 +) 복잡한 병합의 경우 fetch를 사용하기 보다는 임시 branch를 새로 만들어 pull을 수행하고, rebase 명령을 통해서 작업 branch와 병합하는 방법을 사용합니다.
+ 
