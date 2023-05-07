@@ -8,7 +8,7 @@
 
 앞 시간에 배운 요소들=보이지 않는 박스 안에 있었다 (테두리X)
 
-![Content → Padding → Border → Margin](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%206%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%200b15ca2d802049e586fa082d563132a0/Untitled.png)
+![Content → Padding → Border → Margin](https://user-images.githubusercontent.com/127593340/236683226-4091fd96-54fd-422a-8fcf-073226f360e8.png)
 
 Content → Padding → Border → Margin
 
@@ -30,7 +30,7 @@ Content → Padding → Border → Margin
     
     - 부모 요소 안에서 나뉠 수 있음
 
-![Untitled](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%206%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%200b15ca2d802049e586fa082d563132a0/Untitled%201.png)
+![2](https://user-images.githubusercontent.com/127593340/236683223-17e76df6-4eb1-4c0e-8e2c-818afa9500d5.png)
 
 ## <FLEX Box Layout & Grid Box Layout(Grid 생략)>
 
