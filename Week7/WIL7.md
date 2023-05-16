@@ -8,9 +8,9 @@
 
 1. 구획 나누기
     
-    ![구획 나누기.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%207%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%208349e4adab4b46d1bd99f087a45a78c5/%25EA%25B5%25AC%25ED%259A%258D_%25EB%2582%2598%25EB%2588%2584%25EA%25B8%25B0.png)
+    ![구획 나누기](https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/1661dec6-bb70-4419-84ee-626d1183004e)
     
-    ![구획 이름.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%207%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%208349e4adab4b46d1bd99f087a45a78c5/%25EA%25B5%25AC%25ED%259A%258D_%25EC%259D%25B4%25EB%25A6%2584.png)
+    <img width="1030" alt="구획 이름" src="https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/598c4b8d-e39b-4190-8659-5062182c8c18">
     
 2. flex 이용한 배치
     - view 안에 header와 container ⇒ flex-direction : columns
