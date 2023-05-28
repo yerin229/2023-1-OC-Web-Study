@@ -11,7 +11,7 @@
     
     → HTML, CSS 파일은 렌더링 엔진의 HTML 파서와 CSS 파서에 의해 파싱 → HTML, CSS 파일은 렌더링 엔진의 HTML 파서와 CSS 파서에 의해 파싱
     
-    ![1.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/1.png)
+    ![1](https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/eaa6a31d-eb62-4c92-939b-886e5432554e)
     
 
 ## 객체
@@ -24,7 +24,7 @@
     - 생성자 함수
 - 객체의 분류
     
-    ![2.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/2.png)
+    ![2](https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/49ced528-2a8e-4b56-992c-34f32a5a9cc5)
     
 
 ## 함수
@@ -59,27 +59,27 @@
 - 이벤트 종류
     - UI Event
         
-        ![3.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/3.png)
+        <img width="430" alt="3" src="https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/b7ab9bdc-d4c5-41b5-849f-af2735e51a7f">
         
     - Keyboard Event
         
-        ![4.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/4.png)
+        <img width="430" alt="4" src="https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/5a9ca8a2-8f8c-4e9d-83a0-d335382ed8e4">
         
     - Mouse Event
         
-        ![5.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/5.png)
+        <img width="429" alt="5" src="https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/c7fdfb48-1309-4124-b3d2-bdebbc576e82">
         
     - Focus Event
         
-        ![6.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/6.png)
+        <img width="427" alt="6" src="https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/574ba6a6-1b87-44a6-b3c2-c4338314e83c">
         
     - Form Event
         
-        ![7.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/7.png)
+        <img width="431" alt="7" src="https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/b5e9bd18-e417-461b-9b2d-62cc83aac129">
         
     - Clipboard Event
         
-        ![8.png](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%209%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20edd02f1f3df749b5979606aed7157e2b/8.png)
+        <img width="430" alt="8" src="https://github.com/yerin229/2023-1-OC-Web-Study/assets/127593340/aa557c97-d657-4c41-9bf3-ae99f8d8a26a">
         
 - 이벤트 핸들러 등록
     - 인라인 이벤트 핸들러 방식
